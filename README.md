@@ -1,12 +1,13 @@
 # Overview #
 
-W. Avy likes your analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+W.Avy may want to invest in a Surf shop that also sells ice cream. W. Avy requested additonal information about temperature trends from me. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. It is of utmost importance that I provide the necesscary information so that W.Avy can make a much more accurate decision for possible investment. The information provided below should provide more clarity.   
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Results ##
 
 ### Month of June ###
+
 Based of the information provided below, I can conclude the following informaiton:
 
 1. The lowest temperature is 64 degrees fahrenheit.
@@ -17,6 +18,7 @@ Based of the information provided below, I can conclude the following informaito
 
 
 ### Month of December ###
+
 Based of the information provided below, I can conclude the following informaiton:
 1. The lowest temperature is 56 degrees fahrenheit.
 2. The highest temperature is 83 degrees fahrenheit.
