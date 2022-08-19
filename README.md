@@ -15,9 +15,9 @@ Based of the information provided below, I can conclude the following informaito
 
 
 ### Month of December ###
-1.The lowest temperature is 56 degrees fahrenheit.
-2.The highest temperature is 84 degrees fahrenheit.
-3.On average, the temperature is 71 degrees fahrenheit. 
+1. The lowest temperature is 56 degrees fahrenheit.
+2. The highest temperature is 84 degrees fahrenheit.
+3. On average, the temperature is 71 degrees fahrenheit. 
 
 
 
